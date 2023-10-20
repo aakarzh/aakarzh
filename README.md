@@ -37,6 +37,6 @@
 
 ###
 
-<p align="left">Hi, I'm Aakarsh, an Experienced Front End Developer skilled in crafting user-centric web interfaces and a UI/UX Designer proficient in creating visually appealing and<br>functional designs. Collaborative team player with expertise in responsive web design and Agile methodologies.</p>
+<p align="left">Hi, I'm Aakarsh, an Experienced Full Stack Developer skilled in crafting user-centric web interfaces and a UI/UX Designer proficient in creating visually appealing and<br>functional designs. Collaborative team player with expertise in responsive web design and Agile methodologies.</p>
 
 ###
